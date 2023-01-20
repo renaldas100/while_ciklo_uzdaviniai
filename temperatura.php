@@ -79,7 +79,7 @@ $sum=0;
                         <label class="mt-2">Įkelkite failą</label><br>
                         <input class="mt-2" type="file" name="data"><br>
                         <div class="text-center">
-                            <button class="btn btn-success mt-4" type="submit" name="issiusti" value="1" <?php echo 0>=1?'disabled':''; ?>>Sužinokite
+                            <button class="btn btn-success mt-4" type="submit" name="issiusti" value="1">Sužinokite
                                 temperatūras
                             </button>
                         </div>
