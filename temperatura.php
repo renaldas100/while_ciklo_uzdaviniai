@@ -4,7 +4,7 @@
 
 
 //$h = 5;
-//echo $h . "<br>";
+//echo $h."<br>";
 //echo gettype($h) . "<br>";
 //$var1 = (string)$h;
 ////var_dump($var1);
